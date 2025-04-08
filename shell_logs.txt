@@ -1,0 +1,500 @@
+   24  (gdb) part1
+   25  open part1
+   26  ls
+   27  git status
+   28  git remote get-url origin
+   29  make hello
+   30  man gcc
+   31  gcc part1/hello.c
+   32  man gcc
+   33  gcc part1/hello.c -o hello
+   34  man mkdir
+   35  man mv
+   36  make hello
+   37  make clean
+   38  make clean
+   39  man delete
+   40  man remove
+   41  make clean
+   42  man remove
+   43  make clean
+   44  make clean
+   45  cd u/llamet10/
+   46  cd llamet10
+   47  cd llamet10/
+   48  path
+   49  cd u/
+   50  cd /u
+   51  cd /u/llamet10
+   52  ls
+   53  cd lb-lab-LarisonCS11
+   54  ls
+   55  make clean
+   56  make clean
+   57  make clean
+   58  make clean
+   59  make clean
+   60  make clean
+   61  man rm
+   62  make hello
+   63  make deploy
+   64  make clean
+   65  make deploy
+   66  make hello
+   67  clean
+   68  make clean
+   69  make deploy
+   70  make deploy
+   71  make hello
+   72  make clean
+   73  make deploy
+   74  git push
+   75  git push
+   76  git push
+   77  git config --global user.email "llamette10@gmail.com"  git config --global user.name "LarisonCS11"
+   78  git config --global user.email "llamette10@gmail.com
+   79  stop
+   80  exit
+   81  clear
+   82  git config --global user.email "llamette10@gmail.com
+   83  stop
+   84  exit
+   85  clear
+   86  git config --global user.email "llamette10@gmail.com
+   87  stop
+   88  exit
+   89  clear
+   90  git config --global user.email "llamette10@gmail.com"
+   91  git push
+   92  git push
+   93  git config --global user.name "LarisonCS11"
+   94  make clean
+   95  make hello
+   96  make deploy
+   97  make hello
+   98  make clean
+   99  make hello
+  100  make hello
+  101  make hello
+  102  make hello
+  103  make hello
+  104  deploy
+  105  make deploy
+  106  make hello
+  107  make clean
+  108  make deploy
+  109  make deploy
+  110  make deploy
+  111  make deploy
+  112  make deploy
+  113  make clean
+  114  ls
+  115  cd llamet10/
+  116  cd /u/llamet10
+  117  ls
+  118  cd lb-lab-LarisonCS11
+  119  make deploy
+  120  make deploy
+  121  man -n
+  122  man n
+  123  ./whatday 2000 01 01
+  124  make whatday
+  125  make whatday
+  126  make ./whatday 2000 01 01
+  127  whatday 2000 01 01
+  128  ./whatday 2000 11 01
+  129  ./whatday 2015 12 23
+  130  ./whatday 2024 08 29
+  131  make ./whatday 2024 08 29
+  132  ./whatday 2024 08 29
+  133  ./whatday 2024 08 29
+  134  make whatday 2020 09 09
+  135  make whatday
+  136  ./whatday 2024 08 29
+  137  make clean
+  138  make deploy
+  139  make whatday
+  140  ./whatday 2024 08 29
+  141  ./whatday 2024 08 29
+  142  make whatday
+  143  ./whatday 2024 08 29
+  144  make whatday
+  145  ./whatday 2024 08 09
+  146  make whatday
+  147  ./whatday 2024 09 29
+  148  man >
+  149  make whatday
+  150  ./whatday 2024 08 29
+  151  make whatday
+  152  ./whatday 2024 08 29
+  153  ./whatday 2024 08 28
+  154  ls
+  155  exit
+  156  git clone https://github.com/CS429-F2024/ci-lab-LarisonCS11.git
+  157  ls
+  158  pwd
+  159  cd ci-lab-LarisonCS11
+  160  ls
+  161  ls
+  162  cd ci-lab-LarisonCS11
+  163  ls
+  164  git clone https://github.com/CS109C-F2024/ws-lab-LarisonCS11.git
+  165  ls
+  166  cd ws-lab-LarisonCS11
+  167  ls
+  168  pwd
+  169  cd wordlists
+  170  ls
+  171  cd ws-lab-LarisonCS11
+  172  cd /ws-lab-LarisonCS11
+  173  cd/u/llamet10
+  174  cd /u/llamet10
+  175  make test_week1
+  176  make test_week1
+  177  make ci
+  178  make test_week1
+  179  ls
+  180  cd ci-lab-LarisonCS11
+  181  ls
+  182  man typedef
+  183  ls
+  184  cd ws-lab-LarisonCS11
+  185  ls
+  186  ls
+  187  cd ci-lab-LarisonCS11
+  188  ls
+  189  ls
+  190  make test_week1
+  191  make test_week1
+  192  reset
+  193  make test_week1
+  194  make test_week1
+  195  make test_week1
+  196  make debug
+  197  make test_week1
+  198  make debug
+  199  make test_week1
+  200  make test_week1
+  201  ./ci
+  202  ./ci
+  203  make test_week1
+  204  make test_week1
+  205  ./ci
+  206  make test_week1
+  207  ./ci
+  208  make test_week1
+  209  make debug
+  210  man strcmp
+  211  man strcpy
+  212  man free
+  213  ./ci
+  214  make test1
+  215  make test_week1
+  216  man elif
+  217  make test_week1
+  218  make debug
+  219  make test_week1
+  220  make test_week1
+  221  make ci
+  222  make ci
+  223  make test_week1
+  224  make test_week1
+  225  make test_week1
+  226  make test_week1
+  227  gdb
+  228  whoami
+  229  logout
+  230  pwd
+  231  ../
+  232  cd ../
+  233  pwd
+  234  ls
+  235  pwd
+  236  ls
+  237  whoami
+  238  uname
+  239  gdb
+  240  make all
+  241  bin/ci -i week2
+  242  make test_week2
+  243  make test_week2
+  244  make test_week2
+  245  make test_week2
+  246  make heap_runner
+  247  make heap_runner
+  248  ./heap_runner
+  249  ./heap_runner
+  250  ./short1.rep
+  251  make
+  252  make
+  253  make
+  254  ./runner -r/short1.rep
+  255  ./runner -r traces/short1.rep
+  256  gdb ./runner run -r traces/short1.rep
+  257  gdb
+  258  gdb ./runner
+  259  make
+  260  gdb ./runner
+  261  ./runner -r traces
+  262  ./runner -r traces/short1.rep
+  263  ./mdriver -r traces/short1.rep
+  264  ./runner -r traces/expr.rep
+  265  ./runner -r amptjp-bal.rep
+  266  ./runner -r traces/amptjp-bal.rep
+  267  make
+  268  gdb ./runner
+  269  make
+  270  ./runner -r traces/amptjp-bal.rep
+  271  make
+  272  ./runner -r traces/amptjp-bal.rep
+  273  gdb ./runner
+  274  ./runner -rvc traces/amptjp-bal.rep
+  275  ./runner -rvc traces/amptjp-bal.rep
+  276  ./runner -rvc traces/amptjp-bal.rep
+  277  ./runner -rvc traces/amptjp-bal.rep
+  278  ./runner -r traces/short1.rep
+  279  ./runner -r traces/amptjp-bal.rep
+  280  make
+  281  ./runner -r traces/amptjp-bal.rep
+  282  ./runner -r traces/amptjp-bal.rep
+  283  ./runner -rvc traces/amptjp-bal.rep
+  284  ./runner -rvc traces/amptjp-bal.rep
+  285  ./runner -rvc traces/amptjp-bal.rep
+  286  make
+  287  ./runner -rvc traces/amptjp-bal.rep
+  288  ./runner -r traces/amptjp-bal.rep
+  289  ./runner -rv traces/amptjp-bal.rep
+  290  ./runner -rvc traces/amptjp-bal.rep
+  291  ./runner -r traces/amptjp.rep
+  292  ./runner -r traces/binary-bal.rep
+  293  ./runner -r traces/binary.rep
+  294  ./runner -r traces/binary2-bal.rep
+  295  ./runner -r traces/binary2.rep
+  296  ./runner -r traces/cccp-bal.rep
+  297  ./runner -r traces/cccp.rep
+  298  ./runner -r traces/expr.rep
+  299  ./runner -r traces/expr-bal.rep
+  300  git status
+  301  git pull
+  302  git push --force
+  303  git status
+  304  git fetch origin
+  305  git status
+  306  git branch -r
+  307  git branch -v
+  308  git log
+  309  git branch -v
+  310  git status
+  311  git log
+  312  git checkout -b two
+  313  git log
+  314  git push
+  315  git push --set-upstream origin two
+  316  git branch -v
+  317  git pull
+  318  git branch -v
+  319  git branch -m main
+  320  git branch -d main
+  321  git branch -m main
+  322  git push --set-upstream origin main
+  323  git checkout -b two
+  324  git push --set-upstream two
+  325  git push
+  326  git push --set-upstream origin two
+  327  driver.py
+  328  chmod +x driver.py
+  329  ./driver
+  330  ./driver.py
+  331  pip install tabulate
+  332  ./driver.py
+  333  ./driver.py
+  334  driver.py
+  335  make
+  336  driver.py
+  337  ./runner -r traces/amptjp-bal.rep
+  338  make
+  339  ./runner -r traces/amptjp.rep
+  340  ./runner -rvc traces/amptjp-bal.rep
+  341  ./runner -r traces/amptjp-bal.rep
+  342  ./runner -r traces/amptjp-bal.rep
+  343  make
+  344  ./runner -r traces/amptjp-bal.rep
+  345  make
+  346  ./runner -r traces/amptjp-bal.rep
+  347  gdb
+  348  gdb runner
+  349  gdb ./runner
+  350  make
+  351  gbd ./runner
+  352  gdb ./runner
+  353  make
+  354  gdb ./runner
+  355  y
+  356  make
+  357  make
+  358  ./runner -r traces/amptjp-bal.rep
+  359  make
+  360  ./runner -r traces/amptjp-bal.rep
+  361  make
+  362  driver.py
+  363  ./runner -r traces/amptjp-bal.rep
+  364  make
+  365  ./runner -r traces/amptjp-bal.rep
+  366  make
+  367   ./runner -r traces/amptjp-bal.rep
+  368  ./runner -r traces/amptjp-bal.rep
+  369  make
+  370  ./runner -r traces/amptjp-bal.rep
+  371  make
+  372  driver.py
+  373  make
+  374  driver.py
+  375  make
+  376  driver.py
+  377  make
+  378  driver.py
+  379  make
+  380  ./runner -r traces/short1.rep
+  381  driver.py
+  382  make
+  383  make
+  384  driver.py
+  385  git clone https://github.com/CS429-SP2025/shared-repo-version-h-LarisonCS11.git
+  386  make all
+  387  git status
+  388  cd ..
+  389  ls
+  390  rm -rf shared-repo-version-h-LarisonCS11/
+  391  ls
+  392  make clean
+  393  make
+  394  make test-hw
+  395  make clean
+  396  make
+  397  bin/test-hw -h
+  398  bin/test-hw
+  399  testbench/test-hw
+  400  make testbench/test-hw
+  401  make test-hw
+  402  ./test-hw
+  403  make clean
+  404  make
+  405  bin/test-hw -h
+  406  bin/test-hw
+  407  bin/test-hw -v<1>
+  408  bin/test-hw -v 1
+  409  bin/test-hw -v 2
+  410  make clean
+  411  make
+  412  bin/test-hw
+  413  make clean
+  414  make
+  415  bin/test-hw -v 2
+  416  make clean
+  417  make
+  418  bin/test-hw -v 2
+  419  make clean
+  420  make
+  421  bin/test-hw -v 2
+  422  make clean
+  423  make
+  424  bin/test-hw -v 2
+  425  bin/test-hw
+  426  make clean
+  427  make
+  428  bin/test-hw
+  429  bin/test-hw -v 2
+  430  make clean
+  431  make
+  432  bin/test-hw -v 2
+  433  bin/test-hw
+  434  make clean
+  435  make
+  436  bin/test-hw -v 1
+  437  make clean
+  438  make
+  439  bin/test-hw
+  440  make clean
+  441  make
+  442  ./test_pass_a
+  443  gcc -o test_pass_a.c hw_elts.c ... -Iinclude
+  444  gcc -o test_pass_a
+  445  gcc -o test_pass_a.c
+  446  ./src/base/test_pass_a
+  447  gcc -o test_pass_a src/base/test_pass_a.c src/base/hw_elts.c -Iinclude
+  448  make clean
+  449  make
+  450  make clean
+  451  make
+  452  bin/test-hw
+  453  bin/test-hw wk1
+  454  make clean
+  455  make
+  456  bin/test-hw -v 1
+  457  make clean
+  458  make CFLAGS= "-g -O0"
+  459  bin/test-hw -v 1
+  460  make clean; make CFLAGS="-g -O0"
+  461  bin/test-hw -v 1
+  462  gdb bin/test-hw
+  463  pwd
+  464  ls
+  465  ls -la
+  466  ls -a
+  467  touch ~/.gdbinit
+  468  ls
+  469  ls -a
+  470  echo "set history save on"
+  471  echo "set history save on" > ~/.gdbinit
+  472  cat ~/.gdbinit
+  473  pwed
+  474  pwd
+  475  git clone git@github.com:LarisonCS11/Master-version-b-import.git
+  476  git@github.com:LarisonCS11/Master-version-b-import.git
+  477  git clone git@github.com:LarisonCS11/Master-version-b-import.git
+  478  git clone https://github.com/LarisonCS11/Master-version-b-import.git
+  479  ls
+  480  make
+  481  ./mini_ci
+  482  ./mini_ci testcases/basic_add.s
+  483  make check
+  484  make clean
+  485  make debug
+  486  gdb mini_ci
+  487  make
+  488  ./mini_ci testcases/basic_add.s
+  489  ./mini_ci_reference testcases/basic_add.s
+  490  make
+  491  ./mini_ci testcases/basic_add.s
+  492  check
+  493  make check
+  494  make clean
+  495  make debug
+  496  gdb
+  497  gdb mini_ci
+  498  make
+  499  make check
+  500  make check
+  501  make clean
+  502  make
+  503  make check
+  504  make debug
+  505  gdb
+  506  gdb mini_ci
+  507  make clean
+  508  make check
+  509  make 
+  510  make clean
+  511  make
+  512  make debug
+  513  make check
+  514  gdb mini_ci
+  515  make clean
+  516  make
+  517  make debug
+  518  make clean
+  519  make debug
+  520  gdb mini_ci
+  521  make check
+  522  history
+  523  history > shell_logs.txt
